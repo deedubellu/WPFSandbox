@@ -1,8 +1,6 @@
 ﻿namespace FlightCentre.TudFaregateProvider.Common
 {
-    /// <summary>
-    /// 
-    /// </summary>
+    
     public class BaggageOption
     {
         public int ID { get; set; }

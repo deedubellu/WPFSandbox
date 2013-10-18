@@ -1,7 +1,7 @@
 ﻿namespace FlightCentre.TudFaregateProvider.Common
 {
     /// <summary>
-    /// ssss
+    /// 
     /// </summary>
     public class BaggageOption
     {
